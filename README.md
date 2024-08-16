@@ -1,2 +1,2 @@
 # first
-It is my first git
+It is my first giti am cmmiting
