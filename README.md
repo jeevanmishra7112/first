@@ -1,2 +1,3 @@
 # first
-It is my first giti am cmmiting
+It is my first git
+i am commiting
